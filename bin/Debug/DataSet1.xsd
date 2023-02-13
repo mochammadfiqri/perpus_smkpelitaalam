@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="anggota" msprop:Generator_TableClassName="anggotaDataTable" msprop:Generator_TableVarName="tableanggota" msprop:Generator_RowChangedName="anggotaRowChanged" msprop:Generator_TablePropName="anggota" msprop:Generator_RowDeletingName="anggotaRowDeleting" msprop:Generator_RowChangingName="anggotaRowChanging" msprop:Generator_RowEvHandlerName="anggotaRowChangeEventHandler" msprop:Generator_RowDeletedName="anggotaRowDeleted" msprop:Generator_RowClassName="anggotaRow" msprop:Generator_UserTableName="anggota" msprop:Generator_RowEvArgName="anggotaRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="username" msprop:Generator_ColumnVarNameInTable="columnusername" msprop:Generator_ColumnPropNameInRow="username" msprop:Generator_ColumnPropNameInTable="usernameColumn" msprop:Generator_UserColumnName="username" type="xs:string" />
+              <xs:element name="password" msprop:Generator_ColumnVarNameInTable="columnpassword" msprop:Generator_ColumnPropNameInRow="password" msprop:Generator_ColumnPropNameInTable="passwordColumn" msprop:Generator_UserColumnName="password" type="xs:string" minOccurs="0" />
+              <xs:element name="level" msprop:Generator_ColumnVarNameInTable="columnlevel" msprop:Generator_ColumnPropNameInRow="level" msprop:Generator_ColumnPropNameInTable="levelColumn" msprop:Generator_UserColumnName="level" type="xs:string" minOccurs="0" />
+              <xs:element name="Nis" msprop:Generator_ColumnVarNameInTable="columnNis" msprop:Generator_ColumnPropNameInRow="Nis" msprop:Generator_ColumnPropNameInTable="NisColumn" msprop:Generator_UserColumnName="Nis" type="xs:long" minOccurs="0" />
+              <xs:element name="Nama" msprop:Generator_ColumnVarNameInTable="columnNama" msprop:Generator_ColumnPropNameInRow="Nama" msprop:Generator_ColumnPropNameInTable="NamaColumn" msprop:Generator_UserColumnName="Nama" type="xs:string" minOccurs="0" />
+              <xs:element name="JenisKelamin" msprop:Generator_ColumnVarNameInTable="columnJenisKelamin" msprop:Generator_ColumnPropNameInRow="JenisKelamin" msprop:Generator_ColumnPropNameInTable="JenisKelaminColumn" msprop:Generator_UserColumnName="JenisKelamin" type="xs:string" minOccurs="0" />
+              <xs:element name="Kelas" msprop:Generator_ColumnVarNameInTable="columnKelas" msprop:Generator_ColumnPropNameInRow="Kelas" msprop:Generator_ColumnPropNameInTable="KelasColumn" msprop:Generator_UserColumnName="Kelas" type="xs:long" minOccurs="0" />
+              <xs:element name="bid_keahlian" msprop:Generator_ColumnVarNameInTable="columnbid_keahlian" msprop:Generator_ColumnPropNameInRow="bid_keahlian" msprop:Generator_ColumnPropNameInTable="bid_keahlianColumn" msprop:Generator_UserColumnName="bid_keahlian" type="xs:string" minOccurs="0" />
+              <xs:element name="komp_keahlian" msprop:Generator_ColumnVarNameInTable="columnkomp_keahlian" msprop:Generator_ColumnPropNameInRow="komp_keahlian" msprop:Generator_ColumnPropNameInTable="komp_keahlianColumn" msprop:Generator_UserColumnName="komp_keahlian" type="xs:string" minOccurs="0" />
+              <xs:element name="No_Hp" msprop:Generator_ColumnVarNameInTable="columnNo_Hp" msprop:Generator_ColumnPropNameInRow="No_Hp" msprop:Generator_ColumnPropNameInTable="No_HpColumn" msprop:Generator_UserColumnName="No_Hp" type="xs:long" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:anggota" />
+      <xs:field xpath="mstns:username" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
