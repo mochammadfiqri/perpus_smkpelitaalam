@@ -102,7 +102,7 @@ Partial Class Form5
         Me.Panel1.Controls.Add(Me.PictureBox5)
         Me.Panel1.Location = New System.Drawing.Point(0, 27)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(774, 93)
+        Me.Panel1.Size = New System.Drawing.Size(1005, 93)
         Me.Panel1.TabIndex = 8
         '
         'Label18
@@ -132,7 +132,7 @@ Partial Class Form5
         Me.Label11.AutoSize = True
         Me.Label11.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label11.ForeColor = System.Drawing.Color.Black
-        Me.Label11.Location = New System.Drawing.Point(573, 0)
+        Me.Label11.Location = New System.Drawing.Point(804, 0)
         Me.Label11.Name = "Label11"
         Me.Label11.Size = New System.Drawing.Size(197, 22)
         Me.Label11.TabIndex = 8
@@ -226,7 +226,7 @@ Partial Class Form5
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.LogOut, Me.AboutMeToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(774, 24)
+        Me.MenuStrip1.Size = New System.Drawing.Size(1005, 24)
         Me.MenuStrip1.TabIndex = 7
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -252,7 +252,7 @@ Partial Class Form5
         Me.GroupBox2.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.GroupBox2.Location = New System.Drawing.Point(51, 312)
         Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Size = New System.Drawing.Size(698, 143)
+        Me.GroupBox2.Size = New System.Drawing.Size(929, 88)
         Me.GroupBox2.TabIndex = 11
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "RIWAYAT PENGEMBALIAN"
@@ -262,7 +262,7 @@ Partial Class Form5
         Me.Label17.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label17.AutoSize = True
         Me.Label17.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Bold)
-        Me.Label17.Location = New System.Drawing.Point(678, 0)
+        Me.Label17.Location = New System.Drawing.Point(909, 0)
         Me.Label17.Name = "Label17"
         Me.Label17.Size = New System.Drawing.Size(20, 22)
         Me.Label17.TabIndex = 16
@@ -278,7 +278,7 @@ Partial Class Form5
         Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.DataGridView1.Location = New System.Drawing.Point(6, 22)
         Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(682, 115)
+        Me.DataGridView1.Size = New System.Drawing.Size(913, 60)
         Me.DataGridView1.TabIndex = 0
         '
         'GroupBox1
@@ -306,7 +306,7 @@ Partial Class Form5
         Me.GroupBox1.Controls.Add(Me.Label14)
         Me.GroupBox1.Controls.Add(Me.Label15)
         Me.GroupBox1.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.GroupBox1.Location = New System.Drawing.Point(10, 126)
+        Me.GroupBox1.Location = New System.Drawing.Point(125, 126)
         Me.GroupBox1.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
         Me.GroupBox1.Name = "GroupBox1"
         Me.GroupBox1.Padding = New System.Windows.Forms.Padding(4, 3, 4, 3)
@@ -563,16 +563,16 @@ Partial Class Form5
         Me.Panel2.Controls.Add(Me.PictureBox6)
         Me.Panel2.Controls.Add(Me.Label10)
         Me.Panel2.Controls.Add(Me.Label16)
-        Me.Panel2.Location = New System.Drawing.Point(0, 466)
+        Me.Panel2.Location = New System.Drawing.Point(0, 411)
         Me.Panel2.Name = "Panel2"
-        Me.Panel2.Size = New System.Drawing.Size(774, 54)
+        Me.Panel2.Size = New System.Drawing.Size(1005, 54)
         Me.Panel2.TabIndex = 12
         '
         'PictureBox6
         '
         Me.PictureBox6.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.PictureBox6.Image = CType(resources.GetObject("PictureBox6.Image"), System.Drawing.Image)
-        Me.PictureBox6.Location = New System.Drawing.Point(344, 4)
+        Me.PictureBox6.Location = New System.Drawing.Point(459, 4)
         Me.PictureBox6.Name = "PictureBox6"
         Me.PictureBox6.Size = New System.Drawing.Size(55, 47)
         Me.PictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -585,7 +585,7 @@ Partial Class Form5
         Me.Label10.AutoSize = True
         Me.Label10.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label10.ForeColor = System.Drawing.Color.Black
-        Me.Label10.Location = New System.Drawing.Point(405, 18)
+        Me.Label10.Location = New System.Drawing.Point(520, 18)
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(164, 19)
         Me.Label10.TabIndex = 6
@@ -597,7 +597,7 @@ Partial Class Form5
         Me.Label16.AutoSize = True
         Me.Label16.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label16.ForeColor = System.Drawing.Color.Black
-        Me.Label16.Location = New System.Drawing.Point(206, 18)
+        Me.Label16.Location = New System.Drawing.Point(321, 18)
         Me.Label16.Name = "Label16"
         Me.Label16.Size = New System.Drawing.Size(135, 19)
         Me.Label16.TabIndex = 5
@@ -606,7 +606,7 @@ Partial Class Form5
         'Label19
         '
         Me.Label19.AutoSize = True
-        Me.Label19.Location = New System.Drawing.Point(5, 399)
+        Me.Label19.Location = New System.Drawing.Point(8, 271)
         Me.Label19.Name = "Label19"
         Me.Label19.Size = New System.Drawing.Size(45, 13)
         Me.Label19.TabIndex = 13
@@ -617,7 +617,7 @@ Partial Class Form5
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(774, 520)
+        Me.ClientSize = New System.Drawing.Size(1005, 465)
         Me.Controls.Add(Me.Label19)
         Me.Controls.Add(Me.Panel2)
         Me.Controls.Add(Me.GroupBox2)

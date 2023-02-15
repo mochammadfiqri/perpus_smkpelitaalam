@@ -1,0 +1,62 @@
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\Perpustakaan SMK Pelita Alam.exe.config
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\Perpustakaan SMK Pelita Alam.exe
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\Perpustakaan SMK Pelita Alam.pdb
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\Perpustakaan SMK Pelita Alam.xml
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\CrystalDecisions.Shared.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\FlashControlV71.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\MySql.Data.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\ShockwaveFlashObjects.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\Google.Protobuf.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\ZstdNet.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\BouncyCastle.Crypto.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\Ubiety.Dns.Core.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\stdole.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\System.Memory.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\System.Buffers.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\K4os.Compression.LZ4.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\K4os.Hash.xxHash.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\System.Numerics.Vectors.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\Interop.AcroPDFLib.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Release\AxInterop.AcroPDFLib.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.vbproj.AssemblyReference.cache
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\Perpustakaan SMK Pelita Alam.exe.config
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\Interop.AcroPDFLib.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\AxInterop.AcroPDFLib.dll
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.vbproj.ResolveComReference.cache
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.Form_MenuAwal.resources
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.Form_tambahbuku.resources
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.MenuLaporan.resources
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.FormProfile.resources
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.Form_bacabuku.resources
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.form_daftarbuku.resources
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.Form1.resources
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.Form2.resources
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.Form3.resources
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.Form4.resources
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.Form5.resources
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.Formloading.resources
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.FormLogin.resources
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.Form_detailAnggota.resources
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.Resources.resources
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.vbproj.GenerateResource.cache
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.vbproj.CoreCompileInputs.cache
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\perpus_smkpelitaalam.vbproj.CopyComplete
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\Perpustakaan SMK Pelita Alam.exe
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\Perpustakaan SMK Pelita Alam.xml
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Release\Perpustakaan SMK Pelita Alam.pdb

@@ -8,14 +8,15 @@
     <OutputType>WinExe</OutputType>
     <StartupObject>perpus_smkpelitaalam.My.MyApplication</StartupObject>
     <RootNamespace>perpus_smkpelitaalam</RootNamespace>
-    <AssemblyName>perpus_smkpelitaalam</AssemblyName>
+    <AssemblyName>Perpustakaan SMK Pelita Alam</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>
-    <Install>true</Install>
+    <Install>false</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
     <UpdateMode>Foreground</UpdateMode>
@@ -26,9 +27,9 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -37,7 +38,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>perpus_smkpelitaalam.xml</DocumentationFile>
+    <DocumentationFile>Perpustakaan SMK Pelita Alam.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -47,7 +48,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>perpus_smkpelitaalam.xml</DocumentationFile>
+    <DocumentationFile>Perpustakaan SMK Pelita Alam.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -63,7 +64,7 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>logo-smkpelita-100x100px.ico</ApplicationIcon>
+    <ApplicationIcon>img\logo-smkpelita-100x100px.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="adodb, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
@@ -102,54 +103,33 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="bin\Debug\DataSet1.Designer.vb">
+    <Compile Include="bin\Debug\ReportDataPerpus.Designer.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>DataSet1.xsd</DependentUpon>
+      <DependentUpon>ReportDataPerpus.xsd</DependentUpon>
     </Compile>
-    <Compile Include="bin\Debug\DataSet1.vb">
-      <DependentUpon>DataSet1.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="bin\Debug\LaporanBuku.Designer.vb">
+    <Compile Include="bin\Debug\rptAnggota.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>LaporanBuku.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="bin\Debug\LaporanBuku.vb">
-      <DependentUpon>LaporanBuku.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="bin\Debug\LaporanPeminjaman.Designer.vb">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>LaporanPeminjaman.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="bin\Debug\LaporanPengembalian.Designer.vb">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>LaporanPengembalian.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="bin\Debug\myreport.vb">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>myreport.rpt</DependentUpon>
+      <DependentUpon>rptAnggota.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="bin\Debug\myrptBuku.vb">
+    <Compile Include="bin\Debug\rptBuku.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>myrptBuku.rpt</DependentUpon>
+      <DependentUpon>rptBuku.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="bin\Debug\myrptPeminjaman.vb">
+    <Compile Include="bin\Debug\rptPeminjaman.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>myrptPeminjaman.rpt</DependentUpon>
+      <DependentUpon>rptPeminjaman.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="bin\Debug\myrptPengembalian.vb">
+    <Compile Include="bin\Debug\rptPengembalian.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>myrptPengembalian.rpt</DependentUpon>
+      <DependentUpon>rptPengembalian.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="menu_admin\Form_MenuAwal.Designer.vb">
@@ -256,21 +236,21 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="bin\Debug\myreport.rpt">
+    <EmbeddedResource Include="bin\Debug\rptAnggota.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>myreport.vb</LastGenOutput>
+      <LastGenOutput>rptAnggota.vb</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="bin\Debug\myrptBuku.rpt">
+    <EmbeddedResource Include="bin\Debug\rptBuku.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>myrptBuku.vb</LastGenOutput>
+      <LastGenOutput>rptBuku.vb</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="bin\Debug\myrptPeminjaman.rpt">
+    <EmbeddedResource Include="bin\Debug\rptPeminjaman.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>myrptPeminjaman.vb</LastGenOutput>
+      <LastGenOutput>rptPeminjaman.vb</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="bin\Debug\myrptPengembalian.rpt">
+    <EmbeddedResource Include="bin\Debug\rptPengembalian.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>myrptPengembalian.vb</LastGenOutput>
+      <LastGenOutput>rptPengembalian.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="menu_admin\Form_MenuAwal.resx">
       <DependentUpon>Form_MenuAwal.vb</DependentUpon>
@@ -322,52 +302,19 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\DataSet1.xsc">
-      <DependentUpon>DataSet1.xsd</DependentUpon>
-    </None>
-    <None Include="bin\Debug\DataSet1.xsd">
-      <SubType>Designer</SubType>
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
-    </None>
-    <None Include="bin\Debug\DataSet1.xss">
-      <DependentUpon>DataSet1.xsd</DependentUpon>
-    </None>
-    <None Include="bin\Debug\LaporanBuku.xsc">
-      <DependentUpon>LaporanBuku.xsd</DependentUpon>
-    </None>
-    <None Include="bin\Debug\LaporanBuku.xsd">
-      <SubType>Designer</SubType>
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>LaporanBuku.Designer.vb</LastGenOutput>
-    </None>
-    <None Include="bin\Debug\LaporanBuku.xss">
-      <DependentUpon>LaporanBuku.xsd</DependentUpon>
-    </None>
-    <None Include="bin\Debug\LaporanPeminjaman.xsc">
-      <DependentUpon>LaporanPeminjaman.xsd</DependentUpon>
-    </None>
-    <None Include="bin\Debug\LaporanPeminjaman.xsd">
-      <SubType>Designer</SubType>
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>LaporanPeminjaman.Designer.vb</LastGenOutput>
-    </None>
-    <None Include="bin\Debug\LaporanPeminjaman.xss">
-      <DependentUpon>LaporanPeminjaman.xsd</DependentUpon>
-    </None>
-    <None Include="bin\Debug\LaporanPengembalian.xsc">
-      <DependentUpon>LaporanPengembalian.xsd</DependentUpon>
-    </None>
-    <None Include="bin\Debug\LaporanPengembalian.xsd">
-      <SubType>Designer</SubType>
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>LaporanPengembalian.Designer.vb</LastGenOutput>
-    </None>
-    <None Include="bin\Debug\LaporanPengembalian.xss">
-      <DependentUpon>LaporanPengembalian.xsd</DependentUpon>
-    </None>
     <None Include="bin\Debug\perpus_smkpelitaalam.config" />
     <None Include="bin\Debug\perpus_smkpelitaalam.exe.config" />
+    <None Include="bin\Debug\ReportDataPerpus.xsc">
+      <DependentUpon>ReportDataPerpus.xsd</DependentUpon>
+    </None>
+    <None Include="bin\Debug\ReportDataPerpus.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReportDataPerpus.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="bin\Debug\ReportDataPerpus.xss">
+      <DependentUpon>ReportDataPerpus.xsd</DependentUpon>
+    </None>
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -389,6 +336,11 @@
       <Visible>False</Visible>
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="SAP.CrystalReports14.NET.2.0">
+      <Visible>False</Visible>
+      <ProductName>SAP Crystal Reports Runtime Engine for .NET Framework</ProductName>
+      <Install>true</Install>
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
@@ -429,7 +381,7 @@
     <Content Include="bin\Debug\Ubiety.Dns.Core.dll" />
     <Content Include="bin\Debug\ZstdNet.dll" />
     <Content Include="img\logo-smkpelita-100x100px.png" />
-    <Content Include="logo-smkpelita-100x100px.ico" />
+    <Content Include="img\logo-smkpelita-100x100px.ico" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\Release\" />

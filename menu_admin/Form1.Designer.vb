@@ -71,7 +71,7 @@ Partial Class Form1
         Me.Panel2.Controls.Add(Me.PictureBox6)
         Me.Panel2.Controls.Add(Me.Label9)
         Me.Panel2.Controls.Add(Me.Label10)
-        Me.Panel2.Location = New System.Drawing.Point(0, 482)
+        Me.Panel2.Location = New System.Drawing.Point(0, 369)
         Me.Panel2.Name = "Panel2"
         Me.Panel2.Size = New System.Drawing.Size(784, 54)
         Me.Panel2.TabIndex = 8
@@ -294,7 +294,7 @@ Partial Class Form1
         Me.Label5.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Bold)
-        Me.Label5.Location = New System.Drawing.Point(760, 457)
+        Me.Label5.Location = New System.Drawing.Point(760, 344)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(20, 22)
         Me.Label5.TabIndex = 14
@@ -307,7 +307,7 @@ Partial Class Form1
         Me.LogOut.Cursor = System.Windows.Forms.Cursors.Hand
         Me.LogOut.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.LogOut.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LogOut.Location = New System.Drawing.Point(335, 269)
+        Me.LogOut.Location = New System.Drawing.Point(335, 213)
         Me.LogOut.Name = "LogOut"
         Me.LogOut.Size = New System.Drawing.Size(120, 37)
         Me.LogOut.TabIndex = 15
@@ -319,7 +319,7 @@ Partial Class Form1
         Me.Label1.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Times New Roman", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(270, 225)
+        Me.Label1.Location = New System.Drawing.Point(270, 169)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(164, 24)
         Me.Label1.TabIndex = 16
@@ -330,7 +330,7 @@ Partial Class Form1
         Me.LBLuser.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.LBLuser.AutoSize = True
         Me.LBLuser.Font = New System.Drawing.Font("Times New Roman", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LBLuser.Location = New System.Drawing.Point(425, 225)
+        Me.LBLuser.Location = New System.Drawing.Point(425, 169)
         Me.LBLuser.Name = "LBLuser"
         Me.LBLuser.Size = New System.Drawing.Size(90, 24)
         Me.LBLuser.TabIndex = 17
@@ -345,7 +345,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(783, 535)
+        Me.ClientSize = New System.Drawing.Size(783, 422)
         Me.Controls.Add(Me.LBLuser)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.LogOut)

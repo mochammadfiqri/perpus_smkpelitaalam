@@ -121,7 +121,7 @@ Partial Class Form2
         Me.Panel1.Controls.Add(Me.PictureBox5)
         Me.Panel1.Location = New System.Drawing.Point(0, 27)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(1484, 93)
+        Me.Panel1.Size = New System.Drawing.Size(1215, 93)
         Me.Panel1.TabIndex = 0
         '
         'Label18
@@ -151,7 +151,7 @@ Partial Class Form2
         Me.Label11.AutoSize = True
         Me.Label11.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label11.ForeColor = System.Drawing.Color.Black
-        Me.Label11.Location = New System.Drawing.Point(1284, 0)
+        Me.Label11.Location = New System.Drawing.Point(1027, 0)
         Me.Label11.Name = "Label11"
         Me.Label11.Size = New System.Drawing.Size(197, 22)
         Me.Label11.TabIndex = 8
@@ -245,7 +245,7 @@ Partial Class Form2
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.LogOut, Me.AboutMeToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(1260, 24)
+        Me.MenuStrip1.Size = New System.Drawing.Size(991, 24)
         Me.MenuStrip1.TabIndex = 1
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -263,7 +263,8 @@ Partial Class Form2
         '
         'GroupBox1
         '
-        Me.GroupBox1.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.GroupBox1.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GroupBox1.Controls.Add(Me.lvl_usr)
         Me.GroupBox1.Controls.Add(Me.browse_btn)
         Me.GroupBox1.Controls.Add(Me.psswrd)
@@ -292,11 +293,11 @@ Partial Class Form2
         Me.GroupBox1.Controls.Add(Me.Label2)
         Me.GroupBox1.Controls.Add(Me.Label9)
         Me.GroupBox1.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold)
-        Me.GroupBox1.Location = New System.Drawing.Point(734, 195)
+        Me.GroupBox1.Location = New System.Drawing.Point(465, 195)
         Me.GroupBox1.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
         Me.GroupBox1.Name = "GroupBox1"
         Me.GroupBox1.Padding = New System.Windows.Forms.Padding(4, 3, 4, 3)
-        Me.GroupBox1.Size = New System.Drawing.Size(508, 469)
+        Me.GroupBox1.Size = New System.Drawing.Size(508, 478)
         Me.GroupBox1.TabIndex = 4
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "INPUT DATA ANGGOTA"
@@ -465,7 +466,7 @@ Partial Class Form2
         Me.Button3.Cursor = System.Windows.Forms.Cursors.Hand
         Me.Button3.Image = CType(resources.GetObject("Button3.Image"), System.Drawing.Image)
         Me.Button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.Button3.Location = New System.Drawing.Point(107, 423)
+        Me.Button3.Location = New System.Drawing.Point(107, 413)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(92, 34)
         Me.Button3.TabIndex = 3
@@ -478,7 +479,7 @@ Partial Class Form2
         Me.Button2.Cursor = System.Windows.Forms.Cursors.Hand
         Me.Button2.Image = CType(resources.GetObject("Button2.Image"), System.Drawing.Image)
         Me.Button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.Button2.Location = New System.Drawing.Point(206, 423)
+        Me.Button2.Location = New System.Drawing.Point(206, 413)
         Me.Button2.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(74, 34)
@@ -492,7 +493,7 @@ Partial Class Form2
         Me.Button1.Cursor = System.Windows.Forms.Cursors.Hand
         Me.Button1.Image = CType(resources.GetObject("Button1.Image"), System.Drawing.Image)
         Me.Button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.Button1.Location = New System.Drawing.Point(288, 423)
+        Me.Button1.Location = New System.Drawing.Point(288, 413)
         Me.Button1.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(80, 34)
@@ -598,7 +599,7 @@ Partial Class Form2
         Me.GroupBox3.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GroupBox3.Controls.Add(Me.TextBox6)
         Me.GroupBox3.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.GroupBox3.Location = New System.Drawing.Point(734, 128)
+        Me.GroupBox3.Location = New System.Drawing.Point(465, 128)
         Me.GroupBox3.Name = "GroupBox3"
         Me.GroupBox3.Size = New System.Drawing.Size(508, 61)
         Me.GroupBox3.TabIndex = 6
@@ -622,16 +623,16 @@ Partial Class Form2
         Me.Panel2.Controls.Add(Me.PictureBox6)
         Me.Panel2.Controls.Add(Me.Label10)
         Me.Panel2.Controls.Add(Me.Label14)
-        Me.Panel2.Location = New System.Drawing.Point(0, 835)
+        Me.Panel2.Location = New System.Drawing.Point(0, 815)
         Me.Panel2.Name = "Panel2"
-        Me.Panel2.Size = New System.Drawing.Size(1482, 54)
+        Me.Panel2.Size = New System.Drawing.Size(1213, 54)
         Me.Panel2.TabIndex = 9
         '
         'PictureBox6
         '
         Me.PictureBox6.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.PictureBox6.Image = CType(resources.GetObject("PictureBox6.Image"), System.Drawing.Image)
-        Me.PictureBox6.Location = New System.Drawing.Point(698, 4)
+        Me.PictureBox6.Location = New System.Drawing.Point(569, 4)
         Me.PictureBox6.Name = "PictureBox6"
         Me.PictureBox6.Size = New System.Drawing.Size(55, 47)
         Me.PictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -644,7 +645,7 @@ Partial Class Form2
         Me.Label10.AutoSize = True
         Me.Label10.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label10.ForeColor = System.Drawing.Color.Black
-        Me.Label10.Location = New System.Drawing.Point(759, 18)
+        Me.Label10.Location = New System.Drawing.Point(630, 18)
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(164, 19)
         Me.Label10.TabIndex = 6
@@ -656,7 +657,7 @@ Partial Class Form2
         Me.Label14.AutoSize = True
         Me.Label14.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label14.ForeColor = System.Drawing.Color.Black
-        Me.Label14.Location = New System.Drawing.Point(560, 18)
+        Me.Label14.Location = New System.Drawing.Point(431, 18)
         Me.Label14.Name = "Label14"
         Me.Label14.Size = New System.Drawing.Size(135, 19)
         Me.Label14.TabIndex = 5
@@ -676,7 +677,7 @@ Partial Class Form2
         Me.DataGridView1.Location = New System.Drawing.Point(8, 26)
         Me.DataGridView1.Name = "DataGridView1"
         Me.DataGridView1.ShowEditingIcon = False
-        Me.DataGridView1.Size = New System.Drawing.Size(698, 262)
+        Me.DataGridView1.Size = New System.Drawing.Size(441, 235)
         Me.DataGridView1.TabIndex = 0
         '
         'DataGridView2
@@ -688,7 +689,7 @@ Partial Class Form2
         Me.DataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.DataGridView2.Location = New System.Drawing.Point(8, 25)
         Me.DataGridView2.Name = "DataGridView2"
-        Me.DataGridView2.Size = New System.Drawing.Size(698, 222)
+        Me.DataGridView2.Size = New System.Drawing.Size(441, 222)
         Me.DataGridView2.TabIndex = 15
         '
         'GroupBox2
@@ -699,7 +700,7 @@ Partial Class Form2
         Me.GroupBox2.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.GroupBox2.Location = New System.Drawing.Point(12, 127)
         Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Size = New System.Drawing.Size(712, 294)
+        Me.GroupBox2.Size = New System.Drawing.Size(443, 267)
         Me.GroupBox2.TabIndex = 5
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "DATA ANGGOTA"
@@ -710,9 +711,9 @@ Partial Class Form2
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GroupBox4.Controls.Add(Me.DataGridView2)
         Me.GroupBox4.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold)
-        Me.GroupBox4.Location = New System.Drawing.Point(11, 427)
+        Me.GroupBox4.Location = New System.Drawing.Point(11, 407)
         Me.GroupBox4.Name = "GroupBox4"
-        Me.GroupBox4.Size = New System.Drawing.Size(712, 257)
+        Me.GroupBox4.Size = New System.Drawing.Size(443, 257)
         Me.GroupBox4.TabIndex = 32
         Me.GroupBox4.TabStop = False
         Me.GroupBox4.Text = "DATA AKUN"
@@ -725,16 +726,16 @@ Partial Class Form2
         Me.Panel3.Controls.Add(Me.PictureBox7)
         Me.Panel3.Controls.Add(Me.Label19)
         Me.Panel3.Controls.Add(Me.Label20)
-        Me.Panel3.Location = New System.Drawing.Point(0, 699)
+        Me.Panel3.Location = New System.Drawing.Point(0, 679)
         Me.Panel3.Name = "Panel3"
-        Me.Panel3.Size = New System.Drawing.Size(1260, 54)
+        Me.Panel3.Size = New System.Drawing.Size(991, 54)
         Me.Panel3.TabIndex = 33
         '
         'PictureBox7
         '
         Me.PictureBox7.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.PictureBox7.Image = CType(resources.GetObject("PictureBox7.Image"), System.Drawing.Image)
-        Me.PictureBox7.Location = New System.Drawing.Point(587, 4)
+        Me.PictureBox7.Location = New System.Drawing.Point(458, 4)
         Me.PictureBox7.Name = "PictureBox7"
         Me.PictureBox7.Size = New System.Drawing.Size(55, 47)
         Me.PictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -747,7 +748,7 @@ Partial Class Form2
         Me.Label19.AutoSize = True
         Me.Label19.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label19.ForeColor = System.Drawing.Color.Black
-        Me.Label19.Location = New System.Drawing.Point(648, 18)
+        Me.Label19.Location = New System.Drawing.Point(519, 18)
         Me.Label19.Name = "Label19"
         Me.Label19.Size = New System.Drawing.Size(164, 19)
         Me.Label19.TabIndex = 6
@@ -759,7 +760,7 @@ Partial Class Form2
         Me.Label20.AutoSize = True
         Me.Label20.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label20.ForeColor = System.Drawing.Color.Black
-        Me.Label20.Location = New System.Drawing.Point(449, 18)
+        Me.Label20.Location = New System.Drawing.Point(320, 18)
         Me.Label20.Name = "Label20"
         Me.Label20.Size = New System.Drawing.Size(135, 19)
         Me.Label20.TabIndex = 5
@@ -769,7 +770,7 @@ Partial Class Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1260, 749)
+        Me.ClientSize = New System.Drawing.Size(991, 729)
         Me.Controls.Add(Me.Panel3)
         Me.Controls.Add(Me.img_path)
         Me.Controls.Add(Me.GroupBox4)

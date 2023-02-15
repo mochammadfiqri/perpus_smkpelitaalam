@@ -277,7 +277,7 @@ Partial Class Form3
         Me.Button3.Font = New System.Drawing.Font("Calibri", 12.0!, System.Drawing.FontStyle.Bold)
         Me.Button3.Image = CType(resources.GetObject("Button3.Image"), System.Drawing.Image)
         Me.Button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.Button3.Location = New System.Drawing.Point(625, 124)
+        Me.Button3.Location = New System.Drawing.Point(762, 142)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(93, 34)
         Me.Button3.TabIndex = 3
@@ -343,9 +343,9 @@ Partial Class Form3
         Me.Button1.Cursor = System.Windows.Forms.Cursors.Hand
         Me.Button1.Font = New System.Drawing.Font("Calibri", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.ImageAlign = System.Drawing.ContentAlignment.TopCenter
-        Me.Button1.Location = New System.Drawing.Point(625, 160)
+        Me.Button1.Location = New System.Drawing.Point(637, 142)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(119, 30)
+        Me.Button1.Size = New System.Drawing.Size(119, 34)
         Me.Button1.TabIndex = 10
         Me.Button1.Text = "Tambah Buku"
         Me.Button1.UseVisualStyleBackColor = True

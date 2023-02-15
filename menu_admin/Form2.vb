@@ -266,10 +266,8 @@ Public Class Form2
     End Sub
     Private Sub nama_KeyPress(sender As Object, e As KeyPressEventArgs) Handles nama.KeyPress
         'Untuk memvalidasi hanya huruf
-        If Char.IsLetter(e.KeyChar) Or Char.IsControl(e.KeyChar) Then
+        If Char.IsLetter(e.KeyChar) Then
             e.Handled = False
-        Else
-            e.Handled = True
         End If
     End Sub
     Private Sub no_hp_KeyPress(sender As Object, e As KeyPressEventArgs) Handles no_hp.KeyPress

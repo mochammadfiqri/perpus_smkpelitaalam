@@ -1,6 +1,6 @@
-﻿'imports data mysql dari library VB.net
-Imports MySql.Data.MySqlClient
-'Imports System.Data
+﻿Imports MySql.Data.MySqlClient
+'Imports System.Net
+'Imports System.IO
 Module Module1
     Public conn As MySqlConnection
     Public cmd As MySqlCommand
@@ -13,13 +13,15 @@ Module Module1
         'untuk koneksi data , server localhost, user id buat aja root (default)
         ' paswword kosongin kalau default, database di sesuaikan
 
-        db = "Server=localhost;port=3306;user id=root;password=;database=perpus_smkpelitaalam"
-        'db = "Server=103.112.245.4;port=3306;user id=smkkese2_perpus_smkpelitaalam;password=perpus_smkpelitaalam;database=smkkese2_perpus_smkpelitaalam"
+        'database local
+        'db = "Server=localhost;port=3306;user id=root;password=;database=perpus_smkpelitaalam"
+
+        'database cpanel
+        db = "Server=103.112.245.4;port=3306;user id=smkkese2_perpus_smkpelitaalam;password=perpus_smkpelitaalam;database=smkkese2_perpus_smkpelitaalam"
         conn = New MySqlConnection(db)
         Try
             If conn.State = ConnectionState.Closed Then
                 conn.Open()
-                'MsgBox("Koneksi ke database berhasil", MsgBoxStyle.Information, "Informasi")
             End If
         Catch ex As Exception
             MsgBox(Err.Description, MsgBoxStyle.Critical, "Error")

@@ -22,6 +22,7 @@ Partial Class Form_detailAnggota
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form_detailAnggota))
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
         Me.lvl_usr = New System.Windows.Forms.TextBox()
@@ -341,6 +342,7 @@ Partial Class Form_detailAnggota
         Me.Controls.Add(Me.txtAnggota)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.Panel1)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "Form_detailAnggota"
         Me.Text = "Form_detailAnggota"
         Me.Panel1.ResumeLayout(False)

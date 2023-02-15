@@ -8,16 +8,9 @@ D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS 
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Debug\K4os.Compression.LZ4.dll
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Debug\K4os.Hash.xxHash.dll
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Debug\System.Numerics.Vectors.dll
-D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Debug\MySql.Data.xml
-D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.vbproj.AssemblyReference.cache
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.vbproj.GenerateResource.cache
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.vbproj.CoreCompileInputs.cache
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.vbproj.CopyComplete
-D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Debug\perpus_smkpelitaalam.exe.config
-D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Debug\perpus_smkpelitaalam.exe
-D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Debug\perpus_smkpelitaalam.pdb
-D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Debug\perpus_smkpelitaalam.xml
-D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.exe.config
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.Form1.resources
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.Form2.resources
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.Form3.resources
@@ -25,9 +18,6 @@ D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS 
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.Form5.resources
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.Formloading.resources
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.Resources.resources
-D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.exe
-D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.xml
-D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.pdb
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.FormLogin.resources
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.FormProfile.resources
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Debug\Interop.AcroPDFLib.dll
@@ -60,3 +50,11 @@ D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS 
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.Form_MenuAwal.resources
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.Form_BacaBuku.resources
 D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\perpus_smkpelitaalam.Form_detailAnggota.resources
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Debug\Perpustakaan SMK Pelita Alam.exe.config
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Debug\Perpustakaan SMK Pelita Alam.exe
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Debug\Perpustakaan SMK Pelita Alam.pdb
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\bin\Debug\Perpustakaan SMK Pelita Alam.xml
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\Perpustakaan SMK Pelita Alam.exe.config
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\Perpustakaan SMK Pelita Alam.exe
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\Perpustakaan SMK Pelita Alam.xml
+D:\Document\NGAMPUS\TUGAS KULIAH\SEMESTER 6\KERJA PRAKTEK\Apk Perpustakaan SMKS Pelita Alam\perpus_smkpelitaalam\obj\Debug\Perpustakaan SMK Pelita Alam.pdb

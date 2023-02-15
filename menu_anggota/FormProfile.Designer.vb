@@ -135,7 +135,7 @@ Partial Class FormProfile
         Me.LBLjam.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.LBLjam.AutoSize = True
         Me.LBLjam.Font = New System.Drawing.Font("Titillium Web", 11.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LBLjam.Location = New System.Drawing.Point(811, 29)
+        Me.LBLjam.Location = New System.Drawing.Point(929, 29)
         Me.LBLjam.Name = "LBLjam"
         Me.LBLjam.Size = New System.Drawing.Size(53, 23)
         Me.LBLjam.TabIndex = 20
@@ -146,7 +146,7 @@ Partial Class FormProfile
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.LogOutToolStripMenuItem, Me.AboutMeToolStripMenuItem, Me.HelpToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(877, 24)
+        Me.MenuStrip1.Size = New System.Drawing.Size(995, 24)
         Me.MenuStrip1.TabIndex = 19
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -162,7 +162,7 @@ Partial Class FormProfile
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.ForeColor = System.Drawing.Color.Black
-        Me.Label3.Location = New System.Drawing.Point(667, 7)
+        Me.Label3.Location = New System.Drawing.Point(785, 7)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(197, 22)
         Me.Label3.TabIndex = 4
@@ -172,7 +172,7 @@ Partial Class FormProfile
         '
         Me.PictureBox6.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.PictureBox6.Image = CType(resources.GetObject("PictureBox6.Image"), System.Drawing.Image)
-        Me.PictureBox6.Location = New System.Drawing.Point(395, 3)
+        Me.PictureBox6.Location = New System.Drawing.Point(454, 3)
         Me.PictureBox6.Name = "PictureBox6"
         Me.PictureBox6.Size = New System.Drawing.Size(55, 47)
         Me.PictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -185,7 +185,7 @@ Partial Class FormProfile
         Me.Label9.AutoSize = True
         Me.Label9.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label9.ForeColor = System.Drawing.Color.Black
-        Me.Label9.Location = New System.Drawing.Point(456, 18)
+        Me.Label9.Location = New System.Drawing.Point(515, 18)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(164, 19)
         Me.Label9.TabIndex = 3
@@ -197,7 +197,7 @@ Partial Class FormProfile
         Me.Label10.AutoSize = True
         Me.Label10.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label10.ForeColor = System.Drawing.Color.Black
-        Me.Label10.Location = New System.Drawing.Point(257, 18)
+        Me.Label10.Location = New System.Drawing.Point(316, 18)
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(135, 19)
         Me.Label10.TabIndex = 2
@@ -211,9 +211,9 @@ Partial Class FormProfile
         Me.Panel2.Controls.Add(Me.PictureBox6)
         Me.Panel2.Controls.Add(Me.Label9)
         Me.Panel2.Controls.Add(Me.Label10)
-        Me.Panel2.Location = New System.Drawing.Point(0, 482)
+        Me.Panel2.Location = New System.Drawing.Point(0, 410)
         Me.Panel2.Name = "Panel2"
-        Me.Panel2.Size = New System.Drawing.Size(877, 54)
+        Me.Panel2.Size = New System.Drawing.Size(995, 54)
         Me.Panel2.TabIndex = 18
         '
         'Label14
@@ -249,7 +249,7 @@ Partial Class FormProfile
         Me.Panel1.Controls.Add(Me.PictureBox4)
         Me.Panel1.Location = New System.Drawing.Point(0, 27)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(877, 93)
+        Me.Panel1.Size = New System.Drawing.Size(995, 93)
         Me.Panel1.TabIndex = 21
         '
         'OpenFileDialog1
@@ -260,7 +260,7 @@ Partial Class FormProfile
         '
         Me.txtAnggota.AutoSize = True
         Me.txtAnggota.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
-        Me.txtAnggota.Location = New System.Drawing.Point(175, 466)
+        Me.txtAnggota.Location = New System.Drawing.Point(237, 305)
         Me.txtAnggota.Name = "txtAnggota"
         Me.txtAnggota.Size = New System.Drawing.Size(81, 13)
         Me.txtAnggota.TabIndex = 29
@@ -281,7 +281,7 @@ Partial Class FormProfile
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(175, 451)
+        Me.Label5.Location = New System.Drawing.Point(237, 290)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(39, 13)
         Me.Label5.TabIndex = 30
@@ -292,7 +292,7 @@ Partial Class FormProfile
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(877, 536)
+        Me.ClientSize = New System.Drawing.Size(995, 464)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.txtAnggota)
         Me.Controls.Add(Me.Label11)
